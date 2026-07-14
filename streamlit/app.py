@@ -15,6 +15,7 @@ st.title(" Scam Detection System")
 # Initialize detector
 detector = ScamDetector()
 
+
 # Tab layout
 tab1, tab2 = st.tabs(["Single Message", "Dataset Evaluation"])
 
